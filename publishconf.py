@@ -10,13 +10,15 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://christabone.github.io'
-RELATIVE_URLS = False
+SITEURL = 'https://christabone.github.io'
+RELATIVE_URLS = True
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = False
+
+THEME = "Flex"
 
 # Following items are often useful when publishing
 
