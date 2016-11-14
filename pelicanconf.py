@@ -7,7 +7,7 @@ SITENAME = u"Chris Tabone's blog"
 SITEURL = 'http://christabone.github.io'
 SITELOGO = SITEURL + '/images/photo.jpg'
 
-PATH = 'content'
+PATH = '/users/ctabone/Programming/christabone.github.io-src/content'
 
 TIMEZONE = 'America/New_York'
 

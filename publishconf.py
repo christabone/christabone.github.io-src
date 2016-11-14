@@ -18,7 +18,7 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = False
 
-THEME = "Flex"
+THEME = "/users/ctabone/Programming/christabone.github.io-src/pelican-themes/Flex"
 
 # Following items are often useful when publishing
 
