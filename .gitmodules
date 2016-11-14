@@ -1,3 +1,6 @@
 [submodule "output"]
 	path = output
 	url = git@github.com:christabone/christabone.github.io.git
+[submodule "pelican-themes"]
+	path = pelican-themes
+	url = https://github.com/getpelican/pelican-themes.git
