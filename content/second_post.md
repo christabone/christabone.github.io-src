@@ -1,6 +1,6 @@
 Title: Second post
-Date: 2016-11-14 15:27
-Modified: 2016-11-14 15:27
+Date: 2016-11-30 13:15
+Modified: 2016-11-30 13:15
 Category: Blog
 Tags: pelican, publishing
 Slug: second-post
