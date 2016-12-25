@@ -1,4 +1,4 @@
-Title: A test static page 2
+Title: A test static page
 Date: 2016-08-25 13:15
 Modified: 2016-08-25 13:15
 Category: Code
