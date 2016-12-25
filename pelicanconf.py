@@ -29,7 +29,7 @@ AUTHOR_FEED_RSS = None
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/christopher-tabone-34265a58'),
           ('github', 'https://github.com/christabone'),
-	  ('facebook', 'https://www.facebook.com/christopher.tabone'),
+	      ('facebook', 'https://www.facebook.com/christopher.tabone'),
           ('google', 'https://plus.google.com/+ChristopherTabone421/posts'),
           ('twitter', 'https://twitter.com/ChrisTabone'))
 
