@@ -22,5 +22,5 @@ THEME = "./pelican-themes/Flex"
 
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = ""
+DISQUS_SITENAME = "https://christabone.github.io"
 #GOOGLE_ANALYTICS = ""
