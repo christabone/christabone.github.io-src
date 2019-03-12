@@ -10,7 +10,7 @@ SITELOGO = SITEURL + '/images/photo.jpg'
 PATH = '/users/ctabone/Programming/christabone.github.io-src/content'
 
 STATIC_PATHS = ['extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 
 TIMEZONE = 'America/New_York'
 
