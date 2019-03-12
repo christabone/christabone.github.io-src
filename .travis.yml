@@ -8,7 +8,6 @@ python:
 before_install:
 - pip install -U pip
 - pip install -r requirements.txt
-- git submodule update --init --remote --recursive -- pelican-themes
 
 script: 
 - make publish
