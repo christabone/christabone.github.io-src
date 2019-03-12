@@ -5,7 +5,7 @@ Code Cookbook
 :modified: 2016-12-27 18:50
 :tags: coding, python, perl
 :category: coding
-:slug: code-cookbook
+:slug: code
 :authors: Chris Tabone
 :summary: Code cookbook for small snippets of Python and Perl.
 
